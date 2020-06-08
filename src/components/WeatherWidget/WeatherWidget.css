@@ -1,0 +1,15 @@
+.weather-degrees {
+  display: inline-block;
+}
+
+.weather-degrees:nth-child(n+2) {
+  margin-left: 10px;
+}
+
+.weather-degrees p {
+    margin: 0;
+}
+
+.current-degrees {
+  font-size: 36px;
+}
