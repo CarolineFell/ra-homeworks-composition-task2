@@ -12,7 +12,7 @@ const News = ({ news }) => {
       {news.map(item => (
         <p className="news-item" key={shortid.generate()}>
           <i className={`${item.sourceIcon} icon`}></i>
-          <a href="#" className="link">{item.text}</a>
+          <a href="/#" className="link">{item.text}</a>
         </p>
       ))}
     </div>

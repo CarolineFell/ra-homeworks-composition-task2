@@ -12,7 +12,7 @@ const Popular = ({ popular }) => {
     <Widget title="Посещаемое">
       {popular.map(item => (
         <p key={shortid.generate()}>
-          <a href="#">{item.title}</a> {item.subtitle}
+          <a href="/#">{item.title}</a> {item.subtitle}
         </p>
       ))}
     </Widget>

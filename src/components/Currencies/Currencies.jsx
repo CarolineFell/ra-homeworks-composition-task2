@@ -13,7 +13,7 @@ const Currencies = ({ currency }) => {
       {currency.map(item => (
         <p className="item" key={shortid.generate()}>
           <b>
-            <a href="#" className="link">{item.title}</a>
+            <a href="/#" className="link">{item.title}</a>
             {item.rate}
           </b>{" "}
           {item.growth}

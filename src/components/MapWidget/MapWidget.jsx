@@ -9,7 +9,7 @@ import { map } from "../../data/widgetData";
 const MapWidget = () => {
   return (
     <Widget title={map.title}>
-      <a href="#">{map.link}</a>
+      <a href="/#">{map.link}</a>
     </Widget>
   );
 };

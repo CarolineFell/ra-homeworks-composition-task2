@@ -14,9 +14,9 @@ const Broadcast = ({ broadcasts }) => {
       {broadcasts.map(item => (
         <p key={shortid.generate()}>
           <b>
-            <a href="#" className="link">{item.title}</a>
+            <a href="/#" className="link">{item.title}</a>
           </b>
-          <a href="#" className="link">{item.channel}</a>
+          <a href="/#" className="link">{item.channel}</a>
         </p>
       ))}
     </Widget>

@@ -10,7 +10,7 @@ const SearchExample = ({ example }) => {
   return (
     <div>
       <p className="example">
-        <b>Найдётся всё, например, </b> <a href="#">{example}</a>
+        <b>Найдётся всё, например, </b> <a href="/#">{example}</a>
       </p>
     </div>
   );

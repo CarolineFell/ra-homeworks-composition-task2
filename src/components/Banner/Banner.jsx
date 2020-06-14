@@ -7,7 +7,7 @@ import { banner } from "../../data/widgetData";
  */
 const Banner = () => {
   return (
-    <a className="ui large centered leaderboard test ad" href="#" data-text={banner}></a>
+    <a className="ui large centered leaderboard test ad" href="/#" data-text={banner}></a>
   );
 };
 

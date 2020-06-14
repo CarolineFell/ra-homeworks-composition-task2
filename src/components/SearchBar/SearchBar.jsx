@@ -13,7 +13,7 @@ const SearchBar = ({ links, example }) => {
     <React.Fragment>
       <SearchLinks links={links} />
       <div className="ui fluid action input">
-        <a href="#">
+        <a href="/#">
           <img src="https://pr-sotnikov.ru/d/1280px-yandex_official_logosvg.png" className="image-yandex" alt="yandex-logo" />
         </a>
         <input type="text" placeholder="" />

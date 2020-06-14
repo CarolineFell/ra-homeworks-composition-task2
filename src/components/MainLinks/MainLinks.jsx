@@ -11,7 +11,7 @@ const MainLinks = ({ links }) => {
   return (
     <div className="ui horizontal bulleted">
       {links.map(link => (
-        <a href="#" className="link" key={shortid.generate()}>
+        <a href="/#" className="link" key={shortid.generate()}>
           {link}
         </a>
       ))}

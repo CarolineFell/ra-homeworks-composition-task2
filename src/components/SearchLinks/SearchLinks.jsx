@@ -11,7 +11,7 @@ const SearchLinks = ({ links }) => {
   return (
     <div className="ui horizontal list links">
       {links.map(link => (
-        <a href="#" className="item" key={shortid.generate()}>
+        <a href="/#" className="item" key={shortid.generate()}>
           {link}
         </a>
       ))}

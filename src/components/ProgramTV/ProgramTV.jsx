@@ -15,9 +15,9 @@ const ProgramTV = ({ tv }) => {
         <p key={shortid.generate()}>
           <b>
             {item.time}
-            <a href="#" className="link link-tv">{item.title}</a>
+            <a href="/#" className="link link-tv">{item.title}</a>
           </b>{" "}
-          <a href="#" className="link">{item.channel}</a>
+          <a href="/#" className="link">{item.channel}</a>
         </p>
       ))}
     </Widget>

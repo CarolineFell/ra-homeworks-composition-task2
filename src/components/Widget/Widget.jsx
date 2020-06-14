@@ -8,7 +8,7 @@ const Widget = props => {
   return (
     <div className="ui segment">
       <h3>
-        <a href="#">{props.title}</a>
+        <a href="/#">{props.title}</a>
       </h3>
       {props.children}
     </div>
