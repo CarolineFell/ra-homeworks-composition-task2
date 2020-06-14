@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-homeworks-composition-task2/static/css/main.c9ebfa24.chunk.css",
+    "main.js": "/ra-homeworks-composition-task2/static/js/main.541f64e5.chunk.js",
+    "main.js.map": "/ra-homeworks-composition-task2/static/js/main.541f64e5.chunk.js.map",
+    "runtime-main.js": "/ra-homeworks-composition-task2/static/js/runtime-main.d108b426.js",
+    "runtime-main.js.map": "/ra-homeworks-composition-task2/static/js/runtime-main.d108b426.js.map",
+    "static/js/2.67025edd.chunk.js": "/ra-homeworks-composition-task2/static/js/2.67025edd.chunk.js",
+    "static/js/2.67025edd.chunk.js.map": "/ra-homeworks-composition-task2/static/js/2.67025edd.chunk.js.map",
+    "index.html": "/ra-homeworks-composition-task2/index.html",
+    "precache-manifest.465e1acd6499670da93435b1e9ded8cb.js": "/ra-homeworks-composition-task2/precache-manifest.465e1acd6499670da93435b1e9ded8cb.js",
+    "service-worker.js": "/ra-homeworks-composition-task2/service-worker.js",
+    "static/css/main.c9ebfa24.chunk.css.map": "/ra-homeworks-composition-task2/static/css/main.c9ebfa24.chunk.css.map",
+    "static/js/2.67025edd.chunk.js.LICENSE.txt": "/ra-homeworks-composition-task2/static/js/2.67025edd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d108b426.js",
+    "static/js/2.67025edd.chunk.js",
+    "static/css/main.c9ebfa24.chunk.css",
+    "static/js/main.541f64e5.chunk.js"
+  ]
+}
