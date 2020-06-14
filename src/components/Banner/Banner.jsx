@@ -8,7 +8,7 @@ import { banner } from "../../data/widgetData";
 const Banner = () => {
   return (
     <a className="ui large centered leaderboard test ad" href="/#" data-text={banner}>
-      <span>Banner here</span>
+      <span className="hidden">Banner here</span>
     </a>
   );
 };
